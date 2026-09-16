@@ -1,0 +1,100 @@
+AMONGHOSTS
+  A VR Deception Game
+?
+What makes VR feel
+ truly immersive?
+What makes VR feel
+ truly immersive?
+What makes VR feel
+ truly immersive?
+What makes VR feel
+ truly immersive?
+What makes VR feel
+ truly immersive?
+
+
+
+
+        ?
+What makes VR feel
+ truly immersive?
+Imposters
+Imposters
+
+
+
+
+ 01:00
+            Tools
+
+
+
+
+Flare Gun
+            Tools
+
+
+
+
+                      Voice
+Flare Gun
+                    Commands
+Implementation
+   Tools Used
+Main Challenge
+Environment                Flare Gun
+              NPC Prefab
+NPC Spawner
+ 20 NPC Prefabs Spawned
+ 5 Assigned to be Imposters
+ Behaviour Change Based on
+ Speed
+Player Control
+Additional
+Challenge
+NavMesh   NPC Script
+
+
+
+
+          Generate Destination   Move   Idle
+Flare Gun Functionality
+Voice Commands
+Continuous Listening   Push to Talk
+
+
+
+
+         =                      =
+Voice Command Flow
+
+
+
+
+     Unity                                      .Contains()
+                 WAV   Speech-to-Text   JSON
+Microphone API                                 .StartsWith()
+Voice Commands
+
+
+
+
+                   “Repeat
+“Stop”   “Jump”
+                  After Me”
+DEMO
+      User Feedback
+
+
+         User 1                           User 2
+
+  “It sounds simple and fun, I       “this is a proper game. I
+ like that you can command          thought you stole it from
+ them with your voice, but I’d    somebody. The latency is the
+   recommend adding some           only problem stopping this
+  variation. Nevertheless, the     game from being perfect.”
+current version keeps it simple
+   and playable by everyone,
+         young and old.”
+THANK YOU!
+
