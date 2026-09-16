@@ -30,8 +30,3 @@ The full Unity project is hosted here: **[Ezzivdb/AMONGOES](https://github.com/E
 - 🎥 [Demo video](https://drive.google.com/file/d/1s2P5f-DsRy1E7MvSli8pO_F77itRZQeE/view) *(hosted externally — link current as of this writing)*
 - 📊 [Presentation slides](./Presentation.pdf)
 
-## User feedback (from the presentation)
-
-> "It sounds simple and fun, I like that you can command them with your voice, but I'd recommend adding some variation. Nevertheless, the current version keeps it simple and playable by everyone, young and old."
-
-> "This is a proper game. I thought you stole it from somebody. The latency is the only problem stopping this game from being perfect."
